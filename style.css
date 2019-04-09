@@ -1,0 +1,175 @@
+.img-blur
+{
+width: 100%;
+height: 1000px;
+background: url('img/img_planet.jpg');
+background-size: cover;
+background-attachment: fixed;
+}
+
+.img-blur h1
+{
+    position: absolute;
+    top: 150px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+    font-size: 200px;
+    line-height: 190px;
+}
+
+.contain--block--infos
+{
+    color: white;
+    position: absolute;
+    top: 620px;
+    font-size: 20px;
+}
+
+.contain--location p
+{
+    line-height: 10px;
+}
+
+.firstP
+{
+    font-weight: 960;
+}
+
+.job p
+{
+    line-height: 10px;
+}
+
+.formation
+{
+    line-height: 10px;
+    margin-top:690px;
+}
+
+.important
+{
+    font-size: 30px;
+}
+
+.who_I_m
+{
+    height: 1000px;
+    position: absolute;
+    margin-top: 300px;
+}
+
+.fa-clipboard-list
+{
+    font-size: 30px;
+}
+
+.competence
+{
+    background: url('img/secondpic.jpg');
+    background-size: cover;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+.competence h3
+{
+    color: white;
+    position: relative;
+    top: 450px;
+    font-size: 100px;
+}
+
+.contain--project
+{
+    height: 1800px;
+}
+
+.block--project--move
+{
+    position: relative;
+    top: 150px;
+}
+
+.contain--contact
+{
+    background: url('img/meuf.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.contain
+{
+    background: url('img/meuf.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.containMobile
+{
+    margin-top: 100px;
+    height: 120vh;
+}
+
+
+.block--bar
+{
+    position: absolute;
+    top: 50px;
+}
+
+.bar
+{
+    background-color: rgba(255, 255, 255, .3);
+    border-radius: 5px;
+}
+
+.nav--cursor
+{
+    cursor: pointer;
+}
+
+.pic--meetic img, .pic--puissance img, .pic--maquette img, .pic--tweet img, .pic--framework img
+{
+    transition: .4s;
+}
+
+.pic--meetic a:hover img,  .pic--puissance a:hover img, .pic--maquette a:hover img, .pic--tweet a:hover img, .pic--framework a:hover img
+{
+    filter: blur(5px);
+}
+
+.select--site1
+{
+    position: absolute;
+    bottom: 140px;
+    left: 30%;
+}
+
+.select--site2
+{
+    position: absolute;
+    bottom: 140px;
+    left: 30%;
+}
+
+.select--site3
+{
+    position: absolute;
+    bottom: 140px;
+    left: 30%;
+}
+
+.select--site4
+{
+    position: absolute;
+    bottom: 140px;
+    left: 30%;
+}
+
+.select--site5
+{
+    position: absolute;
+    bottom: 140px;
+    left: 30%;
+}
